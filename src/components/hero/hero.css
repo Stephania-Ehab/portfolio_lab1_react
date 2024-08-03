@@ -1,0 +1,10 @@
+.hero-section{
+    background-image: url('https://5alfiat.com/wp-content/uploads/2023/03/%D8%AE%D9%84%D9%81%D9%8A%D8%A7%D8%AA-%D8%B3%D9%88%D8%AF%D8%A7%D8%A1-%D9%81%D8%AE%D9%85%D9%87-%D8%A8%D9%86%D8%A7%D8%AA13.jpg');
+    background-size: cover;
+    color: white;
+    padding: 160px 0px;
+}
+.container{
+    margin-bottom: 20px;
+    margin-top: 20px;
+}

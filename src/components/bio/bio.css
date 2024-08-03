@@ -1,0 +1,11 @@
+.bio-section{
+    height: 200px;;
+}
+.about{
+    float: left;
+    width: 1000px;
+}
+.contant{
+    float: right;
+    width: 940px;
+}
